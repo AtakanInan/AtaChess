@@ -25,4 +25,5 @@ for i in test:
 print()
 for s in board.squares:
     print(s)
+
 # %%
